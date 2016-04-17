@@ -3,6 +3,8 @@ Awesome Conteiners
 
 A curated list of awesome Linux containers related technologies inspired by other Awesome lists
 
+Container runtimes 
+------------------
 * [Binctr](https://github.com/jfrazelle/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries (!)
 * [Docker](https://github.com/docker/docker) - Open-source application container engine.
 * [Fakechroot](https://github.com/dex4er/fakechroot)
@@ -13,3 +15,7 @@ A curated list of awesome Linux containers related technologies inspired by othe
 * [Shifter](https://github.com/NERSC/shifter) - Linux Containers for HPC.
 * [Singularity](http://singularity.lbl.gov/) - Containers without the container.
 * [Vagga](https://github.com/tailhook/vagga/) - Containerization tool without daemons.
+
+Image collections
+------------------
+* [cgl-docker-lib](https://github.com/BD2KGenomics/cgl-docker-lib)
