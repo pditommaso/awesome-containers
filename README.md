@@ -15,6 +15,7 @@ Container runtimes
 * [Runc](https://github.com/opencontainers/runc)
 * [Shifter](https://github.com/NERSC/shifter) - Linux Containers for HPC.
 * [Singularity](http://singularity.lbl.gov/) - Containers without the container.
+* [Udocker](https://github.com/indigo-dc/udocker) - Execute simple containers in batch or interactive systems without root privileges.
 * [Vagga](https://github.com/tailhook/vagga/) - Containerization tool without daemons.
 
 Image collections
