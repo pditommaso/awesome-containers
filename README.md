@@ -6,7 +6,7 @@ A curated list of awesome Linux containers related technologies inspired by othe
 Container runtimes 
 ------------------
 * [Binctr](https://github.com/jfrazelle/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries (!)
-* [Bubblewrap](https://github.com/projectatomic/bubblewrap)
+* [Bubblewrap](https://github.com/projectatomic/bubblewrap) - Unprivileged sandboxing tool.
 * [Charliecloud](https://github.com/hpc/charliecloud) - Lightweight user-defined software stacks for HPC.
 * [Docker](https://github.com/docker/docker) - Open-source application container engine.
 * [Fakechroot](https://github.com/dex4er/fakechroot)
