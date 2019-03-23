@@ -27,3 +27,7 @@ Container runtimes
 Image collections
 ------------------
 * [cgl-docker-lib](https://github.com/BD2KGenomics/cgl-docker-lib)
+
+Misc
+-----
+* [CRFS](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
