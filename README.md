@@ -25,6 +25,12 @@ Container runtimes
 * [Vagga](https://github.com/tailhook/vagga/) - Containerization tool without daemons.
 * [plash](https://github.com/ihucos/plash/) - Rootless, no daemons, docker integration, lightweight, extendable and executable build files.
 
+Micro-VMs
+---------
+* [Firecracker](https://firecracker-microvm.github.io/) - Secure and fast microVMs for serverless computing
+* [Gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
+* [Katacontainers](https://katacontainers.io/) - The speed of containers, the security of VMs
+
 Image collections
 ------------------
 * [cgl-docker-lib](https://github.com/BD2KGenomics/cgl-docker-lib)
