@@ -19,6 +19,7 @@ Container runtimes
 * [Proot](https://github.com/proot-me/PRoot) - Chroot, mount --bind, and binfmt_misc without privilege/setup.
 * [Rkt](https://github.com/coreos/rkt) - App Container runtime for Linux.
 * [Runc](https://github.com/opencontainers/runc)
+* [Sarus](https://github.com/eth-cscs/sarus) - OCI-compatible runtime to deploy Linux containers on HPC environments from CSCS.
 * [Shifter](https://github.com/NERSC/shifter) - Linux Containers for HPC.
 * [Singularity](http://singularity.lbl.gov/) - Containers without the container.
 * [Udocker](https://github.com/indigo-dc/udocker) - Execute simple containers in batch or interactive systems without root privileges.
