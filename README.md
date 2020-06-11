@@ -35,6 +35,7 @@ Micro-VMs
 Image collections
 ------------------
 * [cgl-docker-lib](https://github.com/BD2KGenomics/cgl-docker-lib)
+* [minideb](https://engineering.bitnami.com/articles/minideb-a-new-container-base-image.html)
 
 Misc
 -----
