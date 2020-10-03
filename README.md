@@ -38,6 +38,11 @@ Image collections
 * [cgl-docker-lib](https://github.com/BD2KGenomics/cgl-docker-lib)
 * [minideb](https://engineering.bitnami.com/articles/minideb-a-new-container-base-image.html)
 
+Image / Registry tools
+----------------------
+* [Skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
+* [Sinker](https://github.com/plexsystems/sinker) - tool to sync images from one container registry to another.
+
 Misc
 -----
 * [CRFS](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
