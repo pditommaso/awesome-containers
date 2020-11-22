@@ -45,6 +45,7 @@ Image / Registry tools
 
 Misc
 -----
+* [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl#buildkit-cli-for-kubectl) - Build containers from K8s cluster
 * [CRFS](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 * [Kaniko](https://github.com/GoogleContainerTools/kaniko) - A tool to build container images from a Dockerfile, inside a container.
 * [Trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
