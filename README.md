@@ -50,3 +50,4 @@ Misc
 * [Kaniko](https://github.com/GoogleContainerTools/kaniko) - A tool to build container images from a Dockerfile, inside a container.
 * [Trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
 * [Rootless Containers](https://rootlesscontaine.rs/)
+* [https://github.com/shipwright-io/build](https://github.com/shipwright-io/build) - framework for building container images on Kubernetes
