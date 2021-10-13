@@ -9,6 +9,7 @@ Container runtimes
 * [Bubblewrap](https://github.com/projectatomic/bubblewrap) - Unprivileged sandboxing tool.
 * [Charliecloud](https://github.com/hpc/charliecloud) - Lightweight user-defined software stacks for HPC.
 * [Cromwell](https://github.com/guni1192/cromwell) - Rust Rootless Container Runtime
+* [crun](https://github.com/containers/crun) - Fast and lightweight fully featured OCI runtime.
 * [Docker](https://github.com/docker/docker) - Open-source application container engine.
 * [enroot](https://github.com/nviDIA/enroot) - Simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes by nviDIA.
 * [Fakechroot](https://github.com/dex4er/fakechroot)
