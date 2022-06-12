@@ -33,6 +33,7 @@ Micro-VMs
 * [Firecracker](https://firecracker-microvm.github.io/) - Secure and fast microVMs for serverless computing
 * [Gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
 * [Katacontainers](https://katacontainers.io/) - The speed of containers, the security of VMs
+* [Colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 
 Image collections
 ------------------
