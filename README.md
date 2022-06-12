@@ -34,6 +34,7 @@ Micro-VMs
 * [Gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
 * [Katacontainers](https://katacontainers.io/) - The speed of containers, the security of VMs
 * [Colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+* [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
 Image collections
 ------------------
@@ -54,3 +55,4 @@ Misc
 * [Trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
 * [Rootless Containers](https://rootlesscontaine.rs/)
 * [https://github.com/shipwright-io/build](https://github.com/shipwright-io/build) - framework for building container images on Kubernetes
+* [micromamba-docker](https://github.com/mamba-org/micromamba-docker) - Rapid builds of small Conda-based containers using micromamba.
