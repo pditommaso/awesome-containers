@@ -56,3 +56,4 @@ Misc
 * [Rootless Containers](https://rootlesscontaine.rs/)
 * [https://github.com/shipwright-io/build](https://github.com/shipwright-io/build) - framework for building container images on Kubernetes
 * [micromamba-docker](https://github.com/mamba-org/micromamba-docker) - Rapid builds of small Conda-based containers using micromamba.
+* [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - Launch containers on demand
