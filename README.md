@@ -1,4 +1,4 @@
-Awesome Conteiners
+Awesome Containers
 ===================
 
 A curated list of awesome Linux containers related technologies inspired by other Awesome lists
