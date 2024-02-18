@@ -49,6 +49,7 @@ Image / Registry tools
 
 Misc
 -----
+* [cdebug](https://github.com/iximiuz/cdebug) - a swiss army knife of container debugging
 * [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl#buildkit-cli-for-kubectl) - Build containers from K8s cluster
 * [Img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 * [CRFS](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
