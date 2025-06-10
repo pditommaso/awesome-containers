@@ -5,6 +5,7 @@ A curated list of awesome Linux containers related technologies inspired by othe
 
 Container runtimes 
 ------------------
+* [Apple containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 * [Binctr](https://github.com/jfrazelle/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries (!)
 * [Bubblewrap](https://github.com/projectatomic/bubblewrap) - Unprivileged sandboxing tool.
 * [Charliecloud](https://github.com/hpc/charliecloud) - Lightweight user-defined software stacks for HPC.
