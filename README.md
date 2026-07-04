@@ -48,6 +48,10 @@ Image / Registry tools
 * [Skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 * [Sinker](https://github.com/plexsystems/sinker) - tool to sync images from one container registry to another.
 
+Desktop
+------- 
+* [Dory](https://github.com/Augani/dory) - open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop
+
 Misc
 -----
 * [cdebug](https://github.com/iximiuz/cdebug) - a swiss army knife of container debugging
