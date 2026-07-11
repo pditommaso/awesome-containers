@@ -33,6 +33,7 @@ Container runtimes
 Micro-VMs
 ---------
 * [Firecracker](https://firecracker-microvm.github.io/) - Secure and fast microVMs for serverless computing
+* [smolvm](https://github.com/smol-machines/smolvm) - Portable microVMs on libkrun (Linux/macOS) that run OCI images and copy-on-write fork a running VM in ~150ms
 * [Gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
 * [Katacontainers](https://katacontainers.io/) - The speed of containers, the security of VMs
 * [Colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
