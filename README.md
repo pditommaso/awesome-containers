@@ -29,6 +29,8 @@ Container runtimes
 * [Udocker](https://github.com/indigo-dc/udocker) - Execute simple containers in batch or interactive systems without root privileges.
 * [Vagga](https://github.com/tailhook/vagga/) - Containerization tool without daemons.
 * [plash](https://github.com/ihucos/plash/) - Rootless, no daemons, docker integration, lightweight, extendable and executable build files.
+* [vzgot](https://github.com/jmrcpn/vzgot) - A lightweight, bare-metal-like system containerization and supervisor utility written in pure C.
+
 
 Micro-VMs
 ---------
