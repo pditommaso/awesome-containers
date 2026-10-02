@@ -48,6 +48,7 @@ Image collections
 
 Image / Registry tools
 ----------------------
+* [LayerSmith](https://github.com/r0lfi/layersmith) - Build OCI container images through a self-hosted web UI with Docker or Podman, editable Containerfiles, and air-gap exports.
 * [Skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 * [Sinker](https://github.com/plexsystems/sinker) - tool to sync images from one container registry to another.
 
