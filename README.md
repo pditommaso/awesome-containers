@@ -57,6 +57,7 @@ Desktop
 * [Dory](https://github.com/Augani/dory) - open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop
 
 Misc
+* [Flisk](https://github.com/flisk-sh/flisk) - Generate and run your whole tech stack without the setup pain.
 -----
 * [cdebug](https://github.com/iximiuz/cdebug) - a swiss army knife of container debugging
 * [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl#buildkit-cli-for-kubectl) - Build containers from K8s cluster
