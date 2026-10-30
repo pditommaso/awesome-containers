@@ -54,6 +54,7 @@ Image / Registry tools
 
 Desktop
 ------- 
+* [ContainerDesk](https://github.com/MacHatter1/ContainerDesk) - Native SwiftUI workspace for Apple's container runtime, with live resource monitoring and an integrated terminal.
 * [Dory](https://github.com/Augani/dory) - open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop
 
 Misc
