@@ -16,6 +16,7 @@ Container runtimes
 * [Fakechroot](https://github.com/dex4er/fakechroot)
 * [Youki](https://github.com/containers/youki) - Container runtime written in Rust.
 * [Garden](https://github.com/cloudfoundry-incubator/garden)
+* [Kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux.
 * [Lmctfy](https://github.com/google/lmctfy) - Open source version of Google’s container stack.
 * [Lxc](https://linuxcontainers.org/lxc/) - Linux containers.
 * [Nsroot](https://github.com/uit-no/nsroot) - Minimalist process isolation tool implemented with Linux namespaces.
