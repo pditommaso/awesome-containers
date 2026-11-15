@@ -6,10 +6,9 @@ A curated list of awesome Linux containers related technologies inspired by othe
 Container runtimes 
 ------------------
 * [Apple containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-* [Binctr](https://github.com/jfrazelle/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries (!)
+* [Apptainer](https://apptainer.org/) - Container system for HPC, formerly Singularity.
 * [Bubblewrap](https://github.com/projectatomic/bubblewrap) - Unprivileged sandboxing tool.
-* [Charliecloud](https://github.com/hpc/charliecloud) - Lightweight user-defined software stacks for HPC.
-* [Cromwell](https://github.com/guni1192/cromwell) - Rust Rootless Container Runtime
+* [Charliecloud](https://gitlab.com/charliecloud/charliecloud) - Lightweight user-defined software stacks for HPC.
 * [crun](https://github.com/containers/crun) - Fast and lightweight fully featured OCI runtime.
 * [Docker](https://github.com/docker/docker) - Open-source application container engine.
 * [enroot](https://github.com/nviDIA/enroot) - Simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes by nviDIA.
@@ -17,16 +16,13 @@ Container runtimes
 * [Youki](https://github.com/containers/youki) - Container runtime written in Rust.
 * [Garden](https://github.com/cloudfoundry-incubator/garden)
 * [Kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux.
-* [Lmctfy](https://github.com/google/lmctfy) - Open source version of Google’s container stack.
 * [Lxc](https://linuxcontainers.org/lxc/) - Linux containers.
-* [Nsroot](https://github.com/uit-no/nsroot) - Minimalist process isolation tool implemented with Linux namespaces.
 * [Podman](https://podman.io/) - Rootless/Daemonless container runtime (from RedHat)
 * [Proot](https://github.com/proot-me/PRoot) - Chroot, mount --bind, and binfmt_misc without privilege/setup.
-* [Rkt](https://github.com/coreos/rkt) - App Container runtime for Linux.
 * [Runc](https://github.com/opencontainers/runc)
 * [Sarus](https://github.com/eth-cscs/sarus) - OCI-compatible runtime to deploy Linux containers on HPC environments from CSCS.
 * [Shifter](https://github.com/NERSC/shifter) - Linux Containers for HPC.
-* [Singularity](http://singularity.lbl.gov/) - Containers without the container.
+* [SingularityCE](https://github.com/sylabs/singularity) - Container platform for HPC by Sylabs (archived, end-of-life).
 * [Udocker](https://github.com/indigo-dc/udocker) - Execute simple containers in batch or interactive systems without root privileges.
 * [Vagga](https://github.com/tailhook/vagga/) - Containerization tool without daemons.
 * [plash](https://github.com/ihucos/plash/) - Rootless, no daemons, docker integration, lightweight, extendable and executable build files.
@@ -44,8 +40,7 @@ Micro-VMs
 
 Image collections
 ------------------
-* [cgl-docker-lib](https://github.com/BD2KGenomics/cgl-docker-lib)
-* [minideb](https://engineering.bitnami.com/articles/minideb-a-new-container-base-image.html)
+* [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers.
 
 Image / Registry tools
 ----------------------
@@ -59,13 +54,10 @@ Desktop
 * [Dory](https://github.com/Augani/dory) - open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop
 
 Misc
-* [Flisk](https://github.com/flisk-sh/flisk) - Generate and run your whole tech stack without the setup pain.
 -----
+* [Flisk](https://github.com/flisk-sh/flisk) - Generate and run your whole tech stack without the setup pain.
 * [cdebug](https://github.com/iximiuz/cdebug) - a swiss army knife of container debugging
-* [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl#buildkit-cli-for-kubectl) - Build containers from K8s cluster
 * [Img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-* [CRFS](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
-* [Kaniko](https://github.com/GoogleContainerTools/kaniko) - A tool to build container images from a Dockerfile, inside a container.
 * [Trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
 * [Rootless Containers](https://rootlesscontaine.rs/)
 * [https://github.com/shipwright-io/build](https://github.com/shipwright-io/build) - framework for building container images on Kubernetes
